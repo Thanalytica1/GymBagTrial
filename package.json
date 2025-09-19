@@ -1,0 +1,14 @@
+{
+  "name": "gymbag",
+  "version": "1.0.0",
+  "description": "Trainer Management System",
+  "main": "GymBag.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required for static HTML'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["fitness", "trainer", "management", "gym"],
+  "author": "",
+  "license": "MIT"
+}
