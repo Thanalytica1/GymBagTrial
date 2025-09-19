@@ -1,8 +1,4 @@
 {
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/GymBag.html"
-    }
-  ]
+  "cleanUrls": true,
+  "trailingSlash": false
 }
